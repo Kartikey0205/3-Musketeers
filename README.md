@@ -24,5 +24,9 @@ We can make a web page for the children and ask them questions related to their 
 ## How to get revenue? 
   #### If people take that test via web page, they will encourage people to take the same test. In starting we will make it free for all but later when we become popular then we'll charge money. We'll provide therapy sessions and guide them but it will be under certain plan which will be charged.
   
+  ### Project Preview
+  ![img width="956" alt="2021-01-17 (8)](https://user-images.githubusercontent.com/66429038/104828062-6d287b00-588b-11eb-8235-d9d605fc99e1.png)
+  
+  
   
                                               Thank you
